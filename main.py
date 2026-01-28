@@ -1,1 +1,2 @@
-Primer archivo del proyecto
+
+print("Hola, este es el primer cambio del proyecto")
